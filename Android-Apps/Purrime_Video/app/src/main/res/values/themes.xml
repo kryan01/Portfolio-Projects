@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PurrimeVideo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.PurrimeVideo" parent="Base.Theme.PurrimeVideo" />
+
+    <style name="Widget.Design.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@android:color/transparent</item>
+    </style>
+
+    <style name="NoActiveIndicator" parent="">
+        <item name="android:color">@android:color/transparent</item>
+    </style>
+
+</resources>

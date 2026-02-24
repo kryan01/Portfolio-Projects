@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/house"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_purrime"
+        android:icon="@drawable/face"
+        android:title="Purrime"/>
+    <item
+        android:id="@+id/nav_subscriptions"
+        android:icon="@drawable/add_to_tv"
+        android:title="Subscritchins"/>
+    <item
+        android:id="@+id/nav_downloads"
+        android:icon="@drawable/download"
+        android:title="Meownloads"/>
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/search"
+        android:title="Prowl"/>
+</menu>
