@@ -2,13 +2,11 @@
 
 # AND101 Project 7 - CYOAPI Part 3: Beautified
 
-Submitted by: **Cat Breeds (Beautified)**
-
 Time spent: **4.25** hours spent in total
 
 ## Summary
 
-**Cat Breeds ** is an android app that **displays a scrollable list of cat breeds from the Cat API, now available in dark mode**
+**Cat Breeds** is an android app that **displays a scrollable list of cat breeds from the Cat API, now available in dark mode**
 
 If I had to describe this project in three (3) emojis, they would be: **😻✨😽**
 
