@@ -1,46 +1,50 @@
-## Kayla Ryan | IT and Computer Science Portfolio
-#### Full-Stack Developer | 4.0 GPA Undergraduate
+# Kayla Ryan
+#### Software & Data Engineer | 4.0 GPA Undergraduate
 
 
-Welcome to my project portfolio. This repository showcases my ability to build across the full technical stack, from Object-Oriented Java logic and Native Android applications to Reactive Web UIs.
+Portfolio of software systems and data-driven solutions, spanning native mobile applications, full-stack web tools, and predictive machine learning models.
 
-&nbsp;
+---
+### **Core Competencies**
 
-#### **Core Competencies:**
+|  | Technologies & Concepts |
+| :--- | :--- |
+| **Languages** | Java, Python, Kotlin, JavaScript (ES6+), SQL |
+| **Frameworks & Tools** | React.js, Node.js, Express, Android SDK, Pandas, Scikit-Learn, Jupyter, Git |
+| **Specializations** | Object-Oriented Design (OOP), Supervised Machine Learning, RESTful APIs, QA Testing |
 
-  * **Languages:** Java (Core and Data Systems), Kotlin (Android), JavaScript (ES6+), SQL.
 
-  * **Frameworks and Tools:** React.js, Node.js, Express, Android SDK, Git/GitHub.
+---
 
-  * **Specializations:** Object-Oriented Programming (OOP), RESTful API Design, and Software Quality Assurance (QA).
+## Featured Projects
 
-&nbsp;
+### 📱 Mobile Development (Kotlin/Android)
 
-### _Featured Projects_
-
-#### Android Development
-
-  * **Cat Breeds:** Native Kotlin application focused on clean UI design and efficient data handling.
+&ensp; **[Cat Breeds](Android-Apps/Cat_Breeds)** - Native Kotlin application focused on clean UI design and efficient data handling.
   
-  * **Random Ghibli:** API integration project exploring theme-based UI and dynamic content fetching.
+&ensp; **[Random Ghibli](Android-Apps/RandomGhibli)** - API integration project exploring theme-based UI and dynamic content fetching.
   
-  * **Purrime Video:** Media-focused application handling video playback and reactive layouts.
+&ensp; **[Purrime Video](Android-Apps/Purrime_Video)** - Media-focused application handling video playback and reactive layouts.
   
-  * **Dice RNG:** A clean utility app demonstrating state logic and user interaction.
+&ensp; **[Dice RNG](Android-Apps/DiceRNG)** - A clean utility app demonstrating state logic and user interaction. <br><br>
 
+### ☕ Java Software and Logic
+&ensp; **[Battleship - Java Edition](Java-Apps/Battleship-Java-Edition/src)** - Strategic game engine featuring custom CPU AI logic and OOP encapsulation.
 
-#### Java Software and Logic
-  * **Battleship - Java Edition:** Strategic game engine featuring custom CPU AI logic and OOP encapsulation.
-  
-  * **Fur Seasons Pet Resort:** Backend-focused reservation system for complex business logic management.
+&ensp; **[Fur Seasons Pet Resort](Java-Apps/Fur-Seasons-Pet-Resort)** - Backend-focused reservation system for complex business logic management. <br><br>
 
+### 🌐 Full-Stack Web
 
-#### Full-Stack Web
+&ensp; **[Dynamic Task Scheduler](Web-Apps/Dynamic-Task-Scheduler)** - React/Node.js productivity tool with a persistent JSON-based API and custom sorting logic. 
+<br><br>
 
-  * **Dynamic Task Scheduler:** React/Node.js productivity tool with a persistent JSON-based API and custom sorting logic.
+### 📊 Data Science & Machine Learning
 
-&nbsp;
+&ensp; **[Animal Shelter Stay Prediction](Machine-Learning/Animal_Shelter_Prediction)** - A predictive machine learning model utilizing Austin Animal Center datasets to classify and forecast shelter stay durations.
+<br><br>
+
+---
 
 ### _Academic and Professional Focus_
 
-Currently pursuing a degree in **Information Technology with a Computer Science concentration**. I am actively seeking **internship opportunities** in the San Antonio area, where I can apply my 4.0 GPA standard to real-world development challenges.
+Currently an **Information Technology** senior, I'm actively seeking **employment opportunities** in the San Antonio area where I can apply my 4.0 GPA standards to real-world challenges.
