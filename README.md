@@ -1,11 +1,7 @@
 # Kayla Ryan
-#### Software & Data Engineer | 4.0 GPA Undergraduate
+Software & Data Engineer &nbsp; | &nbsp; 4.0 Institution GPA <br><br>
 
-
-Portfolio of software systems and data-driven solutions, spanning native mobile applications, full-stack web tools, and predictive machine learning models.
-
----
-### **Core Competencies**
+##### Portfolio of software systems and data-driven solutions, spanning native mobile applications, full-stack web tools, and predictive machine learning models.
 
 |  | Technologies & Concepts |
 | :--- | :--- |
